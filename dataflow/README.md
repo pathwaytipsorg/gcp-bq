@@ -15,3 +15,6 @@ python -m attendance \
 ```
 
 Refer: [Apache beam WordCount example]( https://beam.apache.org/get-started/wordcount-example/)
+Refer: [Dataflow Guides]( https://cloud.google.com/dataflow/docs/guides/setting-pipeline-options)
+Refer: [Use custom containers pre-build]( https://cloud.google.com/dataflow/docs/guides/using-custom-containers#prebuild)
+Refer: [If you want to specify a network]( https://cloud.google.com/dataflow/docs/guides/specifying-networks#python)
