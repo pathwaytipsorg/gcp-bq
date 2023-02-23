@@ -13,6 +13,8 @@ python -m attendance \
 	--region <your-region-name> \
 	--temp_location gs://<your-output-bucket>/temp/ 
 ```
+Refer: [To practice in colab]( https://colab.research.google.com/drive/1BoJCHFPwc3fzMml2lYPJsd39AY9LWduf?usp=sharing)
+
 Refer: [Quickstarts python pipeline]( https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-python)
 
 Refer: [Apache beam WordCount example]( https://beam.apache.org/get-started/wordcount-example/)
