@@ -13,3 +13,5 @@ python -m attendance \
 	--region <your-region-name> \
 	--temp_location gs://<your-output-bucket>/temp/ 
 ```
+
+Refer: [Apache beam WordCount example]( https://beam.apache.org/get-started/wordcount-example/)
