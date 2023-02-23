@@ -4,7 +4,8 @@
 2)  Execute following command: gcloud init
 3)  Execute following command: pip install 'apache-beam[gcp]'
 4)  Execute following command: 
-``` python -m attendance \
+``` 
+python -m attendance \
 	--input gs://**your-input-bucket**/csv-files/input/dept_data.txt \
 	--output gs://**your-output-bucket**/dflow/output/part \
 	--runner DataflowRunner \
