@@ -23,7 +23,7 @@ from pyspark.sql.session import SparkSession
 
 # In[8]:
 
-sc = SparkContext()
+sc = SparkContext.getOrCreate();
 spark = SQLContext(sc)
 
 
