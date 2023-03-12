@@ -1,34 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import pyspark 
-
-
-# In[5]:
-
 
 from pyspark import SparkContext 
 from pyspark.sql import SQLContext
 
-
-# In[6]:
-
-
 from pyspark.conf import SparkConf
 from pyspark.sql.session import SparkSession
 
-
-# In[8]:
-
 sc = SparkContext.getOrCreate();
 spark = SQLContext(sc)
-
-
-# In[32]:
-
 
 from datetime import date 
 
@@ -37,17 +19,10 @@ current_date = date.today()
 file_name = str(current_date)
 
 bucket_name = "gs://bucket_name"
-# In[9]:
-
 
 flights_data = spark.read.json(bucket_name+"/flights-data/"+file_name+".json")
 
-
-# In[11]:
-
-
 flights_data.registerTempTable("flights_data")
-
 
 
 qry = """
@@ -64,9 +39,6 @@ qry = """
       """
 
 avg_delays_by_flight_nums = spark.sql(qry)
-
-
-# In[22]:
 
 
 query = """
@@ -87,13 +59,7 @@ query = """
 flights_data = spark.sql(query)
 
 
-# In[24]:
-
-
 flights_data.registerTempTable("flights_data")
-
-
-# In[26]:
 
 
 qry = """
@@ -113,25 +79,10 @@ qry = """
 #spark.sql(qry).show()
 avg_delays_by_distance_category = spark.sql(qry)
 
-
-# In[ ]:
-
-
-
-
-
-# In[33]:
-
-
 output_flight_nums = bucket_name+"/flights_data_output/"+file_name+"_flight_nums"
 output_distance_category = bucket_name+"/flights_data_output/"+file_name+"_distance_category"
 
 avg_delays_by_flight_nums.coalesce(1).write.format("json").save(output_flight_nums)
 avg_delays_by_distance_category.coalesce(1).write.format("json").save(output_distance_category)
-
-
-# In[ ]:
-
-
 
 
