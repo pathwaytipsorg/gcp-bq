@@ -2,8 +2,11 @@ Company,Person,Sales
 ABC Inc.,John,500
 XYZ Ltd.,Jane,1000
 Acme Co.,Bob,750
+Acme Co.,Tina,
 Globex Corp.,Alice,1250
 GHI Co.,Peter,450
+GHI Co.,Ray,
 Acme Co.,Samantha,800
 PQR Corp.,David,1200
+PQR Corp.,,1211
 LMN Ltd.,Jessica,950
