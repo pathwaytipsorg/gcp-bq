@@ -1,0 +1,24 @@
+{
+  "name": "Alice Smith",
+  "age": 25,
+  "address": {
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}
+{
+  "name": "Bob Johnson",
+  "age": 40,
+  "address": {
+    "city": "Chicago",
+    "state": "IL"
+  }
+}
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "city": "New York",
+    "state": "NY"
+  }
+}
