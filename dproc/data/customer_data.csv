@@ -1,8 +1,6 @@
 customer_id,first_name,last_name,email,phone_number,dob,gender,location,date_of_entry
-1,Cynthia,Pace,edward88@example.org,001-658-090-7843x367,2003-11-27,Female,"88604 Nunez Place Apt. 940
-New Bradyport, LA 26574",2023-03-17
-2,Megan,Young,lisa06@example.org,(080)147-1576x0109,1989-09-15,Male,"3583 Kathryn Forges Apt. 054
-North Steve, MH 41608",2023-01-20
+1,Cynthia,Pace,edward88@example.org,001-658-090-7843x367,2003-11-27,Female,"88604 Nunez Place Apt. 940 New Bradyport, LA 26574",2023-03-17
+2,Megan,Young,lisa06@example.org,(080)147-1576x0109,1989-09-15,Male,"3583 Kathryn Forges Apt. 054 North Steve, MH 41608",2023-01-20
 3,Michael,Jones,pmendez@example.org,883.178.1278,1985-09-14,Male,"315 Jensen Square
 Nathanbury, GU 63637",2023-01-04
 4,Marie,Robbins,david47@example.com,+1-609-590-0742x350,1976-03-30,Female,"44816 Stewart Pines Suite 856
