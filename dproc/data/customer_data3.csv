@@ -1,0 +1,36 @@
+customer_id,first_name,last_name,email,phone_number,dob,gender,location,date_of_entry
+1,Jane,Doe,jane.doe@example.com,555-1234,1990-01-01,Female,New York,2022-01-01
+1,Jane,Doe,jane.doe@example.com,555-1234,1990-01-01,Female,Boston,2022-02-01
+1,Jane,Doe,jane.doe@example.com,555-5678,1990-01-01,Female,Boston,2022-03-01
+2,John,Doe,john.doe@example.com,555-4321,1991-02-02,Male,San Francisco,2022-04-01
+2,John,Doe,john.doe@example.com,555-4321,1991-02-02,Male,San Francisco,2022-05-01
+2,John,Doe,john.doe@example.com,555-8765,1991-02-02,Male,San Francisco,2022-06-01
+3,Michael,Jones,pmendez@example.org,883.178.1278,1985-09-14,Male,"315 Jensen Square Nathanbury, GU 63637",2023-01-04
+4,Marie,Robbins,david47@example.com,+1-609-590-0742x350,1976-03-30,Female,"44816 Stewart Pines Suite 856 Glennfurt, IL 34333",2022-07-20
+5,Susan,Richardson,chad92@example.com,694.288.3642,1985-08-19,Female,"2438 Katie Plaza Derekshire, MH 09973",2022-12-08
+6,Sarah,Williams,kristin99@example.com,+1-480-129-7036x04123,1989-05-14,Male,"1373 Ethan Flats Hoffmanshire, VT 30279",2022-12-02
+7,Richard,Ortiz,juanmayer@example.com,(387)352-6296,1994-07-10,Female,"24665 Elizabeth Branch Youngborough, OK 89286",2022-05-07
+8,Jeffrey,Ward,william24@example.com,(243)882-5287,1961-11-11,Male,"38789 John Inlet Adamsstad, DE 47311",2022-09-13
+9,Kimberly,Miller,heidicastillo@example.com,786-594-7352x37944,1941-05-20,Male,"935 Green Port Lake Carolyn, NY 32302",2022-10-08
+10,Timothy,Collins,stevenanderson@example.net,405-030-4303x94572,1950-09-20,Male,"Unit 4239 Box 6969 DPO AP 46920",2022-08-13
+11,Joseph,Beck,donna86@example.org,+1-973-335-5159x216,1986-12-27,Female,"11273 Molina Avenue Rickyland, AR 69464",2022-07-24
+12,Antonio,Woods,bdiaz@example.org,+1-383-463-6829x7257,1934-06-21,Male,"600 Bradley Path Suite 884 North Brendaborough, SC 83167",2023-03-10
+13,Katie,Blevins,dianamassey@example.org,8864237228,1958-04-02,Female,"78330 Thomas Lake Brownfurt, MT 05021",2023-04-28
+14,Kimberly,Edwards,michael50@example.net,325.167.6882x2560,1966-12-21,Male,"18431 Williams Junction Suite 874 Hugheshaven, NY 63145",2023-03-13
+15,Zachary,Brown,pjacobs@example.com,802.426.1280,1955-04-09,Female,"5397 Barnes Estate Suite 796 West Tinaside, OH 94007",2022-08-24
+16,George,Haney,jason05@example.net,574-536-9765,1989-07-20,Male,"86487 William Islands North Michelle, NC 67431",2022-08-26
+17,Ian,Miller,jilledwards@example.net,+1-480-644-9386,1995-10-03,Female,"360 Melissa Key Suite 053 Nancyport, WA 60805",2023-04-27
+18,Edward,Mitchell,owinters@example.net,(528)529-9443x19266,1967-12-12,Female,"USNS Ramirez FPO AA 72035",2023-02-16
+19,Mary,Hale,jwood@example.com,(390)491-5322x007,1961-06-15,Female,"PSC 8786, Box 0729 APO AA 27951",2022-09-03
+20,Patrick,Jackson,justin75@example.com,455-602-4894x19462,2001-09-17,Female,"888 Anita Forges Lake Laura, KY 59700",2023-03-06
+21,Carolyn,Johnson,kgilmore@example.net,270.915.9065x7581,1945-01-25,Female,"41508 Christine Forks Suite 664 Dennisstad, PR 92729",2022-08-04
+22,Matthew,Cameron,harveybrian@example.com,(531)221-5595x19750,1935-02-24,Female,"7781 Scott Street Suite 354 Mariahaven, TX 87815",2023-03-15
+23,Deborah,Morse,alicia33@example.org,+1-572-713-8769x303,1999-11-23,Female,"USCGC Wang FPO AE 12629",2022-08-03
+24,John,Landry,pkane@example.net,001-623-405-9357x895,1981-09-02,Female,"254 Christopher Port Apt. 494 Lake Charleston, WV 87701",2023-04-17
+25,Dawn,Long,lauren65@example.net,787.754.6276x85694,2001-11-28,Female,"62294 Thompson Course Georgeville, PW 36753",2022-09-24
+26,Luke,Myers,allen31@example.org,(882)239-7378x050,1956-05-26,Female,"4811 Perez Estate South Teresafurt, MA 53392",2022-08-22
+27,Kyle,Price,vriley@example.com,001-329-052-8750x61796,1942-12-24,Male,"216 Conley Mews North Harold, NH 35822",2022-12-01
+28,Jay,Martin,brucejones@example.com,590.019.1598x97909,1931-10-18,Female,"2790 Davis Extension Apt. 041 Jonesville, GA 40283",2022-08-29
+29,Nicole,Sims,sharonbailey@example.net,(825)419-8392x958,2005-01-11,Female,"5486 Sean Common Apt. 094 Garciaborough, VA 74472",2022-12-07
+30,Matthew,Perez,sarah48@example.com,+1-047-477-2106,1959-12-25,Female,"2760 Rose Turnpike Suite 739 Guzmanview, MS 45918",2022-09-21
+31,William,Reid,edward09@example.net,001-655-225-9979x848,1935-06-16,Female,"366 Edwards Drive Apt. 762 Lake Scott, MT 94659",2022-05-06
